@@ -5,4 +5,4 @@
 
 #### 🚀 Currently -
 - Getting the hang on Laravel and php
-- Looking for working practices 
+- Learning about Testing
